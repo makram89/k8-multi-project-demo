@@ -9,4 +9,6 @@ Folder 'cluster' contains example bash script and commands to create minikube cl
 
 Projects: 
 - [Wordpress](Wordpress/README.md) 
+- [React App](React-app/README.md)
+- [PHP App](PHP-app/README.md)
 
